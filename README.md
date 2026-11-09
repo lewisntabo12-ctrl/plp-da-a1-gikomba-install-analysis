@@ -10,7 +10,6 @@ Wanjiku runs a fresh-produce stall at Gikomba Market. For the past two weeks, sh
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lewisntabo12-ctrl/plp-da-a1-gikomba-stall-analysis/blob/main/stall_analysis.ipynb)
 
 ## Top Three Findings
-*(To be updated after executing the Python analysis)*
-1. [Placeholder for finding 1]
-2. [Placeholder for finding 2]
-3. [Placeholder for finding 3]
+1. **Weekend Dominance:** Weekend sales drive the business, averaging KES 4,900 per day, which is an 82.50% increase over the weekday average of KES 2,685.
+2. **Inventory Alerts:** Tomatoes and Sukuma are critically low and require immediate restocking to prevent stockouts. 
+3. **Consistent Growth:** The stall demonstrated a solid week-on-week revenue growth of 10.66%, increasing total weekly sales from KES 22,050 to KES 24,400.
